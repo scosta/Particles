@@ -4,8 +4,8 @@ An implementation of a simple particle engine.  The core logic lies in the point
 
 ## Screenshots
 
-![](images/particles01.jpg?raw=true)
-![](images/particles02.jpg?raw=true)
-![](images/particles03.jpg?raw=true)
-![](images/particles04.jpg?raw=true)
-![](images/particles05.jpg?raw=true)
+![](Images/particles01.jpg?raw=true)
+![](Images/particles02.jpg?raw=true)
+![](Images/particles03.jpg?raw=true)
+![](Images/particles04.jpg?raw=true)
+![](Images/particles05.jpg?raw=true)
